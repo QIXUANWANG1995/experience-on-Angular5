@@ -1,2 +1,1 @@
-# assignment-zihanyu1995
-assignment-zihanyu1995
+follow the tutorial to study Angular5
